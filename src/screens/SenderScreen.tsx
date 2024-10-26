@@ -134,7 +134,11 @@ export function SenderScreen() {
 											: {}
 									}
 								>
-									<img src="./rocket.svg" className="w-24 h-24" alt="rocket" />
+									<img
+										src="./assets/rocket.svg"
+										className="w-24 h-24"
+										alt="rocket"
+									/>
 								</motion.div>
 							</div>
 						</motion.div>

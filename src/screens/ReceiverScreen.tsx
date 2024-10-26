@@ -104,7 +104,11 @@ export function ReceiverScreen() {
 								transition={{ duration: 2 }}
 								className="absolute top-0 left-[40%] -translate-x-1/2 w-20 h-32"
 							>
-								<img src="./rocket.svg" className="w-24 h-24" alt="rocket" />
+								<img
+									src="./assets/rocket.svg"
+									className="w-24 h-24"
+									alt="rocket"
+								/>
 							</motion.div>
 						)}
 					</div>
