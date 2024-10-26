@@ -10,6 +10,8 @@ This project is a web application that allows users to play a simple game of roc
 
 - Sender and receiver screens (can be 2 differnt computers!)
 - Message sending and receiving
+- supabase realtime broadcast
+- rocket traveling from screen to screen!
 - Animations using framer motion
 
 ## Installation
