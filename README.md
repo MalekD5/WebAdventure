@@ -6,6 +6,17 @@ WARNING!!!! THIS PROJECT IS NOT MEANT TO BE USED IN PRODUCTION. IT IS MEANT TO B
 
 This project is a web application that allows users to play a simple game of rocket science. The game involves the user sending a message to another user, who then replies with a message of their own. The game is designed to teach the basics of cryptography and web development.
 
+here are some screenshots of the game:
+
+### Main Screen
+![Main Screen](/.github/assets/main.png)
+
+### Sender Screen
+![Sender Screen](/.github/assets/sender.png)
+
+### Receiver Screen
+![Receiver Screen](/.github/assets/receiver.png)
+
 ## Features
 
 - Sender and receiver screens (can be 2 differnt computers!)
@@ -13,6 +24,7 @@ This project is a web application that allows users to play a simple game of roc
 - supabase realtime broadcast
 - rocket traveling from screen to screen!
 - Animations using framer motion
+
 
 ## Installation
 
