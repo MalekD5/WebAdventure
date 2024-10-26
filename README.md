@@ -17,6 +17,39 @@ here are some screenshots of the game:
 ### Receiver Screen
 ![Receiver Screen](/.github/assets/receiver.png)
 
+## Game play
+The player must decrypt the code to make the rocket travel from one screen to another. The code is a sequence of colors that the player must enter to decrypt the message. each 2 numbers in the sequence represent a letter in the alphabet.
+
+here is the table of the characters and their corresponding numbers:
+| Code | Letter |
+|------|--------|
+| 00   | A      |
+| 01   | B      |
+| 02   | C      |
+| 03   | D      |
+| 04   | E      |
+| 05   | F      |
+| 06   | G      |
+| 07   | H      |
+| 08   | I      |
+| 09   | J      |
+| 10   | K      |
+| 11   | L      |
+| 12   | M      |
+| 13   | N      |
+| 14   | O      |
+| 15   | P      |
+| 16   | Q      |
+| 17   | R      |
+| 18   | S      |
+| 19   | T      |
+| 20   | U      |
+| 21   | V      |
+| 22   | W      |
+| 23   | X      |
+| 24   | Y      |
+| 25   | Z      |
+
 ## Features
 
 - Sender and receiver screens (can be 2 differnt computers!)
